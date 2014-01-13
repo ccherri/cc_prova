@@ -11,7 +11,9 @@ namespace TestGIT
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            
             int x = 1;
+            x = 100;
         }
     }
 }
